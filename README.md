@@ -22,7 +22,7 @@ My next goal would be to try and make a stack helper application, that uses lang
 chains that span over a large database containing text docs,github repos,google meet transcripts, sql databases and various API access and integrate 
 it into the LLM, this model would be an expert on the stack and we would just have to guide the model into the direction we desire to take.
 
-P.S. I understand that people are concerned about the fact that, as developers we might become completely dependant of the use of AI. But, similar to 
+P.S. I understand that people are concerned about the fact that, as developers we might become completely dependant on the use of AI. But, similar to 
 Google or Stackoverflow it is just a really good tool that increases our productivity, so that we can focus on more creative side problems. And, given 
 the advancements we have seen this year with LLMs, it would be stupid not to use it. That said, I wish to familiarize myself with all the open source 
 tools and frameworks in this field, and solve more problems.
