@@ -1,5 +1,5 @@
 # langchain
-##I have used langchain with OpenAI api to tackle the token limit problem and successfully created a personalized assistant for a custom dataset
+## I have used langchain with OpenAI api to tackle the token limit problem and successfully created a personalized assistant for a custom dataset
 
 In the jupyter notebook **langchain_git**, this code trains the LLM on any github repository, this can be really helpful when the github repo contains 
 documentations for a particular framework not already trained by the OpenAI model, especially when the commit is made after Nov 2021. This may be 
